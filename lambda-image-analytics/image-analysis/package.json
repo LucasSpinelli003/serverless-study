@@ -1,0 +1,15 @@
+{
+  "name": "image-analysis",
+  "version": "1.0.0",
+  "description": "image analytics api",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1692.0",
+    "axios": "^1.7.7"
+  }
+}

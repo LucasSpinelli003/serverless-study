@@ -9,6 +9,6 @@ functions:
   hello:
     handler: index.handler
     events:
-      - http  :
+      - http:
           path: hello
           method: get
